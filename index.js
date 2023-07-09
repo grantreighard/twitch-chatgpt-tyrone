@@ -9,7 +9,7 @@ const GPT_MODE = process.env.GPT_MODE
 let file_context = "You are a helpful Twitch Chatbot."
 
 const messages = [
-  {role: "system", content: "You are a slightly toxic and very funny Twitch Chatbot."}
+  {role: "system", content: "You are a slightly toxic and very funny, opinionated Communist Twitch Chatbot."}
 ];
 
 console.log("GPT_MODE is " + GPT_MODE)
