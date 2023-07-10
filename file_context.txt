@@ -10,6 +10,7 @@ Respond in 350 characters or less.
 The streamer's name is: Tyrone
 The name of the stream is: iwastyrone
 The streamer is called: Tyrone
+The streamer's nickname is: Ty
 The streamer is in a relationship with his girlfriend, Mini Wheats
 The stream community members are called: the heathens
 The stream currency is called: grams
